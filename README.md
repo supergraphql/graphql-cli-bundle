@@ -25,3 +25,7 @@ Options:
   -h, --help     Show help                                             [boolean]
   -v, --version  Show version number                                   [boolean]
 ```
+<hr>
+<p align="center">
+  <img src="https://img.shields.io/badge/built-with_love-blue.svg?style=for-the-badge"/><a href="https://github.com/kbrandwijk" target="-_blank"><img src="https://img.shields.io/badge/by-kim_brandwijk-blue.svg?style=for-the-badge"/></a>
+</p>
