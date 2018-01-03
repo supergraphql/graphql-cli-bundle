@@ -28,7 +28,7 @@
     "graphql-import": "^0.1.8"
   },
   "devDependencies": {
-    "@types/node": "8.5.2",
+    "@types/node": "8.5.5",
     "tslint": "5.8.0",
     "typescript": "2.6.2"
   }
